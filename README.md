@@ -1,5 +1,6 @@
 # Raspberry-Pi-OCR-Live-Text-Detection
 Detect text in images or a camera live feed
+Tutorial: https://tutorials-raspberrypi.com/raspberry-pi-text-recognition-ocr/
 
 1. Install Tesseract
 
